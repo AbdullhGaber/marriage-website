@@ -1,0 +1,97 @@
+.marriageBox{
+    border-right: 6px black solid;
+    border-bottom: 6px black solid;
+    border-left: 6px #7F0FA2 solid;
+    border-top: 6px #7F0FA2 solid;
+    width: 200px;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.searchInput{
+    border-radius: 50px ;
+    width: 60%;
+    margin-top: 50px;
+}
+.sidebarText{
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 20px;
+    color: #7F0FA2;
+}
+div.paragraphText{
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 12px;
+    color: gray;
+    width: 100%;
+    
+}
+.navLink:hover{ 
+    color: #7F0FA2; transition: 0.6s ; 
+}
+.navLink{
+    color: gray;
+    font-size: 22px;
+}
+.navHome{
+    color: gray;
+}
+.navHome:hover{
+    color: #7F0FA2;
+    transition: 0.6s;
+}
+.userFontAwe{
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 0.001em 0.18em;
+  width: 26px;
+  height: 26px;
+  margin-bottom: 2px;
+  margin-top: 3px;
+  background-color: gray;
+  color: #ffff; 
+  font-size: 19px;
+}
+.userFontAwe:hover{
+    background-color: #7F0FA2;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+.thinkInput{
+    border-radius: 50px ;
+    margin-top: 50px;
+    border-color: #7F0FA2;
+}
+.socialBtn{
+    padding: 5px 50px 5px 50px;
+    background-color: #ffff;
+    border-color: #7F0FA2;
+    border-radius: 5px ;
+    color: #7F0FA2;
+    font-size: 20px;
+  
+}
+.socialBtn:hover{
+
+background-color: #7F0FA2;
+color: #fff;
+
+}
+.pagiLink{
+color: #7F0FA2;
+
+}
+.pagiLink:hover{
+
+background-color: #7F0FA2;
+color: #fff;
+
+}
